@@ -1,0 +1,22 @@
+.stats{
+    color: purple;
+}
+
+h1, h2, h3 {
+			text-transform: uppercase;
+		}
+
+
+h2 {
+color: chocolate;
+border: solid;
+border-width: 2px;
+padding-left: 5px;
+}
+
+body {
+
+    font-family: "Verdana", Geneva, sans-serif;
+    background-image: url("../img2/ocean_bg.jpg")
+
+}

@@ -1,0 +1,98 @@
+			p,li {
+				color: white;
+				background-color: green;
+				}
+			h3 {
+				color: skyblue;
+				background-color: darkblue;
+				}
+			ol {
+				background-color: royalblue;
+				}
+
+			h2 {
+				color: white;
+				background-color: darkblue;
+				text-align : center;
+				font-size: 5vw;
+				font-family: "Segoe UI", Tahoma, sans-serif;
+				}
+
+
+			#red-li {
+			    color: red;
+			}
+
+			#navbar th {
+			    background-color: cornflowerblue;
+			    border-style: solid;
+			    border-color: black;
+			    border-collapse: collapse;
+			    font_size: 20px;
+			    font-family: 'Segoe UI', Tahoma, sans-serif;
+			}
+
+			body {
+			    background-image: url(../img/blue-tile.png);
+			    font-family: "Segoe UI", Tahoma, sans-serif;
+			}
+
+			header {
+			        background-color : #000080;
+			        color: #FFFAFF;
+			        text-align: center;
+			        font-size: 50px;
+			        border: 3px solid #FFFAFF;
+			}
+
+			footer {
+			        background-color : #000080;
+			        color: #FFFAFF;
+			        font_size: 12px;
+			        border: 3px solid #FFFAFF;
+			        padding-left: 5px;
+			}
+
+			.profile {
+			    background-color : #3E92CC;
+			    text-align: center;
+			}
+
+
+			.even-row{
+			    background-color: #5764A5
+			}
+
+			.navbar {
+			    background-color: #FFFAFF;
+			    border: solid #000080;
+			    font-size: 20px;
+			    position: sticky;
+			    top: 0px;
+			}
+
+			.dropdown {
+			    display: inline-block;
+			}
+
+			.dropdown-content {
+			    display: none;
+			    position: absolute;
+			    background-color: #FFFAFF;
+			    color: #000080;
+			    padding: 5px;
+			    box-shadow: 5px 5px 10px black;
+			}
+
+			.dropdown:hover .dropdown-content {
+			    display: block;
+			}
+
+			.active {
+			    background-color: #f08080;
+			}
+
+			a {
+			    color: #000080;
+			    text-decoration; none;
+			}
